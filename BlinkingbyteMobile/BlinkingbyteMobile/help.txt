@@ -1,3 +1,3 @@
 ﻿Help file
 
-local changes done
+local changes done on local system
